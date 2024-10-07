@@ -1,1 +1,9 @@
+Update query using Modifying, Transactional along with Query to reduce the ticket price by 10%
 
+In Demoticket example use derived query method to retrieve all tickets from or to a specific place. Add necessary code to Service and expose Get rest endpoint
+
+
+In ticket example validate with Minimum numberof seats and maximum number of seats
+
+
+Use DecimalMin and DecimalMax for ticket price (minimum=99..9 maximum=10000)
