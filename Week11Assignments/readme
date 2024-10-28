@@ -1,1 +1,4 @@
+1. Make changes to Rest Assured example to test new ticket booking. and Read TIcket Data as Json string
+2. Make Necessary changes to above to fetch user name from excel(addusername column to excel).Validate it with user name response.
 
+3.TO above program print test result to excel.
