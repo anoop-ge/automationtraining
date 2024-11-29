@@ -1,1 +1,14 @@
+Both Assignments are added.
 
+1.Selenium tests for Product Search HTML.
+  Tests added 1. Search By productname. 2. Search By invalid productname. 3. Search By emptyproduct.
+
+
+2.RestAPI Project and Tests for Product Search and Buy functions.
+
+Product search - will search by Product Name.
+
+Tests Added - 1. Search by Productname and validate the productname, unitprice,status and contenttype.  .
+              2. Buy product- Send request using prodid and quantity.validate the updated quantity, status and contenttype
+
+Buy Product- Given quantity will deducted from db if given quantity less than db value.
